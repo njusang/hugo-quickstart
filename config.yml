@@ -7,7 +7,7 @@ GoogleAnalytics: ""
 
 params:
   # Conference info
-  Name: "Yet Another Conference"
+  Name: "Jizu's Yet Another Conference"
   Description: "Conference description"
   Date: "November 15"
   # Price: "Only $100" # If your event is free, just comment this line
